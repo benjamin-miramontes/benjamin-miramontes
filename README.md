@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I'm a life long learner.
+I'm currently learning programming as a student at Gavilan College in Gilroy, CA.
+Pronouns he/him
 <!--
 **benjamin-miramontes/benjamin-miramontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
